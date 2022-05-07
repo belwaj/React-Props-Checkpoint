@@ -1,0 +1,12 @@
+.box{
+    display: flex;
+    justify-content: center;
+}
+.title{
+    text-transform: uppercase;
+    font-family: 'Catamaran', sans-serif;
+    color: rgba(white, 0.8);
+}
+.red{
+color: red;
+}
